@@ -12,7 +12,7 @@ A full-stack deep learning project for detecting and classifying brain tumors fr
 ![Screenshot 1](./Readme_resource/Image1.png)  
 ![Screenshot 2](./Readme_resource/Image2.png)  
 
-🎥 [Demo Video](https://user-images.githubusercontent.com/64485885/228761355-885f5953-c953-4ae4-bbae-b3f1171f2801.mp4)
+🎥 ![Demo Video](https://user-images.githubusercontent.com/64485885/228761355-885f5953-c953-4ae4-bbae-b3f1171f2801.mp4)
 
 ---
 
