@@ -103,9 +103,8 @@ Styled with CSS for visual clarity
 ### 💡 Impact
 This project demonstrates how deep learning can be applied to healthcare to improve diagnostic workflows. By combining VGG16 architecture with full-stack deployment, the system offers both technical depth and practical usability. It’s designed to be accessible to healthcare professionals and patients alike.
 
+---
 ## 📫 Contact
 For questions, feedback, or collaboration, feel free to reach out via  [LinkedIn](https://www.linkedin.com/in/prashanth-kpy/)  or open an issue on this repo.
 
 ---
-
-Let me know if you'd like to add badges, GitHub stats, or a contribution guide. This README is ready to impress recruiters, collaborators, and anyone exploring your work.
